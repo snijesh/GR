@@ -1,11 +1,6 @@
-```python
 
-```
+### Prioritizing the Genes Glucocorticoid Receptors
 
-
-```python
-
-```
 
 ```
 1. The genes were prioritized from cell line data for ER negative and ER Positive
@@ -89,54 +84,22 @@ GR Low : 78 samples
 <img src = 'boxplot_wilcox-page-001.jpg' width="850" height="720">
 
 
-```python
-
-```
-
 <img src = 'boxplot_wilcox-page-002.jpg' width="850" height="720">
 
-
-```python
-
-```
 
 <img src = 'boxplot_wilcox-page-003.jpg' width="850" height="720">
 
 
-```python
-
-```
-
 <img src = 'boxplot_wilcox-page-004.jpg' width="850" height="720">
 
-
-```python
-
-```
 
 <img src = 'boxplot_wilcox-page-005.jpg' width="850" height="720">
 
 
-```python
-
-```
-
 <img src = 'boxplot_wilcox-page-006.jpg' width="850" height="720">
 
 
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
 #### Proportion plot of selected immune cell types by proprtion
-```
 
 <img src = 'selected_box.png'>
 
